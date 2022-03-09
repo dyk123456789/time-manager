@@ -1,3 +1,3 @@
 # time-manager
-Time management script made with python
+Time management script for linux (KDE plasma)
 [UNDER DEVELOPMENT]
